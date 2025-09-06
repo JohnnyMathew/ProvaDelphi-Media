@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/09/06 14:51:17.000.556,=C:\Users\JM\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/06 15:04:27.000.955,C:\Users\JM\Documents\Embarcadero\Studio\Projects\Unit1.pas=E:\JM\Jobs\Delphi\Módulo 3 Delphi\Prova\Unit1.pas</Transaction>
+    <Transaction>2025/09/06 15:04:27.000.955,C:\Users\JM\Documents\Embarcadero\Studio\Projects\Unit1.dfm=E:\JM\Jobs\Delphi\Módulo 3 Delphi\Prova\Unit1.dfm</Transaction>
+    <Transaction>2025/09/06 15:58:41.000.809,C:\Users\JM\Documents\Embarcadero\Studio\Projects\Project1.dproj=E:\JM\Jobs\Delphi\Módulo 3 Delphi\Prova\CalcularMédia.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
